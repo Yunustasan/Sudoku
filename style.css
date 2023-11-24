@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    
+}
+
+ div {
+
+    width: 380px;
+    height: 315px;
+    margin: auto;
+    border: 3px solid black;
+    background-color: wheat; 
+    padding: 8px;
+    box-shadow: 20px 20px 15px gray;
+    
+} 
+
+.box4 {
+    margin-top: 5px;
+}
+
+.box7 {
+    margin-top: 5px;
+}
+
+.box10 {
+    margin-left: 125px;
+    transform: translate(0%,-930%);
+    
+}
+
+
+
+
+
+.box11 {
+    margin-left: 125px;
+    transform: translate(0%,-930%);
+    
+}
+
+.box12 {
+    margin-left: 125px;
+    transform: translate(0%,-930%);
+}
+
+.box13 {
+    margin-left: 125px;
+    transform: translate(0%,-913%);
+}
+
+.box14 {
+    margin-left: 125px;
+    transform: translate(0%,-913%);
+}
+
+.box15 {
+    margin-left: 125px;
+    transform: translate(0%,-913%);
+}
+
+.box16 {
+    margin-left: 125px;
+    transform: translate(0%,-900%);
+}
+
+.box17 {
+    margin-left: 125px;
+    transform: translate(0%,-900%);
+}
+
+.box18{ 
+    margin-left: 125px;
+    transform: translate(0%,-900%);
+}
+
+.box19 {
+    margin-left: 250px;
+    transform: translate(0%,-1830%);
+}
+
+.box20 {
+    margin-left: 250px;
+    transform: translate(0%,-1830%);
+}
+
+.box21 {
+    margin-left: 250px;
+    transform: translate(0%,-1830%);
+}
+
+.box22 {
+    margin-left: 250px;
+    transform: translate(0%,-1813%);
+}
+
+.box23 {
+    margin-left: 250px;
+    transform: translate(0%,-1813%);
+}
+
+.box24 {
+    margin-left: 250px;
+    transform: translate(0%,-1813%);
+}
+
+.box25 {
+    margin-left: 250px;
+    transform: translate(0%,-1798%);
+}
+
+.box26 {
+    margin-left: 250px;
+    transform: translate(0%,-1798%);
+}
+
+.box27 {
+    margin-left: 250px;
+    transform: translate(0%,-1798%);
+
+}
+table {
+    border-collapse: collapse;
+    
+}
+
+
+
+
+
+.kutu1 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+    transition: 0.4s all;
+}
+
+.kutu2 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+    transition: 0.4s all;
+}
+
+.kutu3 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+    transition: 0.4s all;
+}
+
+.kutu4 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+    transition: 0.4s all;
+}
+
+.kutu5 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+    transition: 0.4s all;
+}
+
+.kutu6 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+    transition: 0.4s all;
+}
+
+.kutu7 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+}
+
+.kutu8 {
+    border: 2px solid black;
+    background-color:brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+}
+
+.kutu9 {
+    border: 2px solid black;
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+    width: 38px;
+    text-align: center;
+}
+
+
+.kutu1:hover {
+    background-color: tomato;
+    
+}
+
+.kutu2:hover {
+    background-color: tomato;
+    
+}
+
+.kutu3:hover {
+    background-color: tomato;
+    
+}
+
+.kutu4:hover {
+    background-color: tomato;
+    
+}
+
+.kutu5:hover {
+    background-color: tomato;
+    
+}
+
+.kutu6:hover {
+    background-color: tomato;
+    
+}
+
+.kutu7:hover {
+    background-color: tomato;
+    
+}
+
+.kutu8:hover {
+    background-color: tomato;
+    
+}
+
+.kutu9:hover {
+    background-color: tomato;
+    
+}
